@@ -194,7 +194,7 @@ const Index = () => {
                 Since 2017, SmartoSphere has engineered custom IoT devices, embedded systems, cloud platforms, and automation solutions. We don't build prototypes—we build scalable, deployable products used across industries.
               </p>
               <p className="text-muted-foreground text-lg leading-relaxed mt-4">
-                Backed by Vignan Electronics' 30+ years of hardware expertise, we combine legacy knowledge with cutting-edge technology.
+                Backed by  30+ years of hardware expertise, we combine legacy knowledge with cutting-edge technology.
               </p>
             </div>
             <div className="grid grid-cols-2 gap-4">
